@@ -1,3 +1,10 @@
+Fait par Marc Moureau et Thomas Doret-gaïsset A4
+thomas.doret-gaisset@edu.devinci.fr
+marc.moureau@edu.devinci.fr
+
+commande pour compiler le scss : 
+sass --watch src/assets/main.scss src/assets/main.css
+
 # typescript-rendu
 
 This template should help get you started developing with Vue 3 in Vite.
